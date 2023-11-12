@@ -1,0 +1,384 @@
+.APOYO-SOCIAL {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.APOYO-SOCIAL .div {
+  background-color: #ffffff;
+  height: 1024px;
+  overflow: hidden;
+  position: relative;
+  width: 1440px;
+}
+
+.APOYO-SOCIAL .group {
+  height: 40px;
+  left: 0;
+  position: absolute;
+  top: 984px;
+  width: 1444px;
+}
+
+.APOYO-SOCIAL .overlap-group {
+  height: 40px;
+  position: relative;
+  width: 1440px;
+}
+
+.APOYO-SOCIAL .text-wrapper {
+  color: #ffffff;
+  font-family: "Outfit", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 3px;
+  width: 646px;
+}
+
+.APOYO-SOCIAL .rectangle {
+  background-color: #043f70;
+  box-shadow: inset 0px 4px 4px #00000040;
+  height: 40px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.APOYO-SOCIAL .p {
+  color: #ffffff;
+  font-family: "Outfit", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 33px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 10px;
+  width: 646px;
+}
+
+.APOYO-SOCIAL .frame-wrapper {
+  height: 21px;
+  left: 1372px;
+  position: absolute;
+  top: 8px;
+  width: 21px;
+}
+
+.APOYO-SOCIAL .frame {
+  height: 21px;
+  position: relative;
+}
+
+.APOYO-SOCIAL .pngwing {
+  height: 24px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 24px;
+}
+
+.APOYO-SOCIAL .react-icons-fa {
+  height: 22px !important;
+  left: 1343px !important;
+  position: absolute !important;
+  top: 10px !important;
+  width: 20px !important;
+}
+
+.APOYO-SOCIAL .group-2 {
+  background-image: url(../../static/img/react-icons-fa-falinkedinin-1.svg);
+  background-size: 100% 100%;
+  height: 22px;
+  left: 1404px;
+  position: absolute;
+  top: 10px;
+  width: 20px;
+}
+
+.APOYO-SOCIAL .overlap-wrapper {
+  height: 165px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1452px;
+}
+
+.APOYO-SOCIAL .overlap {
+  background-image: url(../../static/img/rectangle-933.svg);
+  background-size: 100% 100%;
+  height: 169px;
+  position: relative;
+  width: 1440px;
+}
+
+.APOYO-SOCIAL .img {
+  height: 169px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.APOYO-SOCIAL .rectangle-2 {
+  background-color: #043f70;
+  filter: blur(4px);
+  height: 165px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.APOYO-SOCIAL .text-wrapper-2 {
+  color: #ffffff;
+  font-family: "Outfit", Helvetica;
+  font-size: 20px;
+  font-weight: 500;
+  left: 834px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 75px;
+  width: 115px;
+}
+
+.APOYO-SOCIAL .text-wrapper-3 {
+  color: #ffffff;
+  font-family: "Outfit", Helvetica;
+  font-size: 20px;
+  font-weight: 500;
+  left: 1103px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 75px;
+  width: 134px;
+}
+
+.APOYO-SOCIAL .text-wrapper-4 {
+  color: #ffffff;
+  font-family: "Outfit", Helvetica;
+  font-size: 20px;
+  font-weight: 500;
+  left: 1261px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 75px;
+  width: 122px;
+}
+
+.APOYO-SOCIAL .text-wrapper-5 {
+  color: #ffffff;
+  font-family: "Outfit", Helvetica;
+  font-size: 20px;
+  font-weight: 500;
+  left: 973px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 75px;
+  width: 106px;
+}
+
+.APOYO-SOCIAL .text-wrapper-6 {
+  color: #ffffff;
+  font-family: "Outfit", Helvetica;
+  font-size: 20px;
+  font-weight: 500;
+  left: 737px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 75px;
+  width: 73px;
+}
+
+.APOYO-SOCIAL .text-wrapper-7 {
+  color: #ffffff;
+  font-family: "Petrona", Helvetica;
+  font-size: 100px;
+  font-style: italic;
+  font-weight: 700;
+  left: 200px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 32px;
+  white-space: nowrap;
+}
+
+.APOYO-SOCIAL .text-wrapper-8 {
+  color: #00569d;
+  font-family: "Outfit", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 153px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 282px;
+  width: 742px;
+}
+
+.APOYO-SOCIAL .line {
+  height: 2px;
+  left: 153px;
+  object-fit: cover;
+  position: absolute;
+  top: 320px;
+  width: 742px;
+}
+
+.APOYO-SOCIAL .text-wrapper-9 {
+  color: #000000;
+  font-family: "Outfit", Helvetica;
+  font-size: 40px;
+  font-weight: 700;
+  left: 153px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 230px;
+}
+
+.APOYO-SOCIAL .overlap-2 {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #cfc9c9;
+  border-radius: 10px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 140px;
+  left: 153px;
+  position: absolute;
+  top: 372px;
+  width: 1123px;
+}
+
+.APOYO-SOCIAL .text-wrapper-10 {
+  color: #b09595;
+  font-family: "Outfit", Helvetica;
+  font-size: 25px;
+  font-weight: 700;
+  left: 29px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 14px;
+}
+
+.APOYO-SOCIAL .line-2 {
+  height: 2px;
+  left: 29px;
+  object-fit: cover;
+  position: absolute;
+  top: 57px;
+  width: 840px;
+}
+
+.APOYO-SOCIAL .text-wrapper-11 {
+  color: #b09595;
+  font-family: "Outfit", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 29px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 67px;
+  width: 1017px;
+}
+
+.APOYO-SOCIAL .overlap-3 {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #cfc9c9;
+  border-radius: 10px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 140px;
+  left: 153px;
+  position: absolute;
+  top: 553px;
+  width: 1123px;
+}
+
+.APOYO-SOCIAL .text-wrapper-12 {
+  color: #b09595;
+  font-family: "Outfit", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 29px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 69px;
+  width: 1017px;
+}
+
+.APOYO-SOCIAL .overlap-4 {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #cfc9c9;
+  border-radius: 10px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 140px;
+  left: 153px;
+  position: absolute;
+  top: 734px;
+  width: 1123px;
+}
+
+.APOYO-SOCIAL .text-wrapper-13 {
+  color: #b09595;
+  font-family: "Outfit", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 29px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 68px;
+  width: 1017px;
+}
+
+
+.APOYO-SOCIAL .whatsapp-image {
+  height: 137px;
+  left: 20px;
+  object-fit: cover;
+  position: absolute;
+  top: 14px;
+  width: 149px;
+}
+
+.colorLinkMujeres:Link {
+  color: #b09595;
+}
+
+.colorLinkMujeres:hover{
+  text-decoration: underline;
+}
+
+.colorLinkMujeres:active {
+  color: #b09595
+}
+
+.colorLinkMujeres:visited {
+  color: #b09595
+}

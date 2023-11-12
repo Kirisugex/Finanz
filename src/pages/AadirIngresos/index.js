@@ -1,0 +1,1 @@
+export { AadirIngresos } from "./AadirIngresos";

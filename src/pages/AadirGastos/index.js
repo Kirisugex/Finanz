@@ -1,0 +1,1 @@
+export { AadirGastos } from "./AadirGastos";
