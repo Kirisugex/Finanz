@@ -1,0 +1,1 @@
+export { ReactIconsFa } from "./ReactIconsFa";

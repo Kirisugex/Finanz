@@ -1,0 +1,1 @@
+export { ReactIconsFaWrapper } from "./ReactIconsFaWrapper";

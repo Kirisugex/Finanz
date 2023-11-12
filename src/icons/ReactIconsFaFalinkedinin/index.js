@@ -1,0 +1,1 @@
+export { ReactIconsFaFalinkedinin } from "./ReactIconsFaFalinkedinin";

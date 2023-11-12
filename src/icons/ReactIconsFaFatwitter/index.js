@@ -1,0 +1,1 @@
+export { ReactIconsFaFatwitter } from "./ReactIconsFaFatwitter";
