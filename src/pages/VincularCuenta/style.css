@@ -1,0 +1,738 @@
+.VINCULAR-CUENTA {
+  background-color: rgba(255, 255, 255, 1);
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.VINCULAR-CUENTA .div {
+  background: linear-gradient(180deg, rgb(0, 73, 135) 0%, rgb(186.89, 214.42, 249.46) 100%);
+  background-color: rgba(255, 255, 255, 1);
+  height: 1024px;
+  overflow: hidden;
+  position: relative;
+  width: 1440px;
+}
+
+.VINCULAR-CUENTA .group {
+  height: 40px;
+  left: 0;
+  position: absolute;
+  top: 1156px;
+  width: 1444px;
+}
+
+.VINCULAR-CUENTA .overlap-group {
+  height: 40px;
+  position: relative;
+  width: 1440px;
+}
+
+.VINCULAR-CUENTA .text-wrapper {
+  color: #ffffff;
+  font-family: "Outfit", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 3px;
+  width: 646px;
+}
+
+.VINCULAR-CUENTA .rectangle {
+  background-color: #043f70;
+  box-shadow: inset 0px 4px 4px #00000040;
+  height: 40px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.VINCULAR-CUENTA .p {
+  color: #ffffff;
+  font-family: "Outfit", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 33px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 10px;
+  width: 646px;
+}
+
+.VINCULAR-CUENTA .overlap {
+  background-color: #3e77b6;
+  height: 59px;
+  left: -5px;
+  position: absolute;
+  top: 19px;
+  width: 1445px;
+}
+
+.VINCULAR-CUENTA .group-2 {
+  height: 18px;
+  left: 46px;
+  position: relative;
+  top: 20px;
+  width: 42px;
+}
+
+.VINCULAR-CUENTA .line {
+  height: 4px;
+  left: 0;
+  position: absolute;
+  top: -4px;
+  width: 42px;
+}
+
+.VINCULAR-CUENTA .img {
+  height: 4px;
+  left: 0;
+  position: absolute;
+  top: 14px;
+  width: 42px;
+}
+
+.VINCULAR-CUENTA .line-2 {
+  height: 4px;
+  left: 0;
+  position: absolute;
+  top: 5px;
+  width: 42px;
+}
+
+.VINCULAR-CUENTA .overlap-2 {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #cfc9c9;
+  border-radius: 10px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 753px;
+  left: 308px;
+  position: absolute;
+  top: 136px;
+  width: 819px;
+}
+
+.VINCULAR-CUENTA .text-wrapper-2 {
+  color: #887b7b;
+  font-family: "Outfit", Helvetica;
+  font-size: 32px;
+  font-weight: 700;
+  left: 156px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 25px;
+}
+
+.VINCULAR-CUENTA .line-3 {
+  height: 1px;
+  left: 105px;
+  object-fit: cover;
+  position: absolute;
+  top: 77px;
+  width: 581px;
+}
+
+.VINCULAR-CUENTA .div-wrapper {
+  background: linear-gradient(180deg, rgb(144, 177, 219) 0%, rgb(62, 119, 182) 100%);
+  border-radius: 30px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 52px;
+  left: 55px;
+  position: absolute;
+  top: 651px;
+  width: 181px;
+}
+
+.VINCULAR-CUENTA .text-wrapper-3 {
+  color: #ffffff;
+  font-family: "Outfit", Helvetica;
+  font-size: 20px;
+  font-weight: 600;
+  left: 52px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 13px;
+}
+
+.VINCULAR-CUENTA .overlap-3 {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #cfc9c9;
+  border-radius: 10px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 42px;
+  left: 61px;
+  position: absolute;
+  top: 126px;
+  width: 671px;
+}
+
+.VINCULAR-CUENTA .text-wrapper-4 {
+  color: #887b7b;
+  font-family: "Outfit", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 11px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 6px;
+}
+
+.VINCULAR-CUENTA .overlap-4 {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #cfc9c9;
+  border-radius: 10px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 42px;
+  left: 61px;
+  position: absolute;
+  top: 370px;
+  width: 671px;
+}
+
+.VINCULAR-CUENTA .overlap-5 {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #cfc9c9;
+  border-radius: 10px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 42px;
+  left: 61px;
+  position: absolute;
+  top: 188px;
+  width: 266px;
+}
+
+.VINCULAR-CUENTA .overlap-6 {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #cfc9c9;
+  border-radius: 10px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 42px;
+  left: 341px;
+  position: absolute;
+  top: 188px;
+  width: 391px;
+}
+
+.VINCULAR-CUENTA .text-wrapper-5 {
+  color: #887b7b;
+  font-family: "Outfit", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 13px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 6px;
+  width: 119px;
+}
+
+.VINCULAR-CUENTA .overlap-7 {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #cfc9c9;
+  border-radius: 10px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 42px;
+  left: 61px;
+  position: absolute;
+  top: 308px;
+  width: 344px;
+}
+
+.VINCULAR-CUENTA .overlap-8 {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #cfc9c9;
+  border-radius: 10px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 42px;
+  left: 423px;
+  position: absolute;
+  top: 308px;
+  width: 145px;
+}
+
+.VINCULAR-CUENTA .overlap-9 {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #cfc9c9;
+  border-radius: 10px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 42px;
+  left: 586px;
+  position: absolute;
+  top: 308px;
+  width: 146px;
+}
+
+.VINCULAR-CUENTA .text-wrapper-6 {
+  color: #887b7b;
+  font-family: "Outfit", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 11px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 6px;
+  width: 45px;
+}
+
+.VINCULAR-CUENTA .text-wrapper-7 {
+  color: #887b7b;
+  font-family: "Outfit", Helvetica;
+  font-size: 17px;
+  font-weight: 400;
+  left: 94px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 257px;
+  width: 616px;
+}
+
+.VINCULAR-CUENTA .rectangle-2 {
+  -webkit-backdrop-filter: blur(4px) brightness(100%);
+  backdrop-filter: blur(4px) brightness(100%);
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #887b7b;
+  height: 21px;
+  left: 60px;
+  position: absolute;
+  top: 258px;
+  width: 23px;
+}
+
+.VINCULAR-CUENTA .text-wrapper-8 {
+  color: #887b7b;
+  font-family: "Outfit", Helvetica;
+  font-size: 17px;
+  font-weight: 400;
+  left: 100px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 524px;
+  width: 616px;
+}
+
+.VINCULAR-CUENTA .rectangle-3 {
+  -webkit-backdrop-filter: blur(4px) brightness(100%);
+  backdrop-filter: blur(4px) brightness(100%);
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #887b7b;
+  height: 21px;
+  left: 66px;
+  position: absolute;
+  top: 525px;
+  width: 23px;
+}
+
+.VINCULAR-CUENTA .overlap-10 {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #cfc9c9;
+  border-radius: 10px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 42px;
+  left: 61px;
+  position: absolute;
+  top: 441px;
+  width: 266px;
+}
+
+.VINCULAR-CUENTA .polygon {
+  height: 19px;
+  left: 229px;
+  position: absolute;
+  top: 13px;
+  width: 24px;
+}
+
+.VINCULAR-CUENTA .overlap-11 {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #cfc9c9;
+  border-radius: 10px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 42px;
+  left: 341px;
+  position: absolute;
+  top: 441px;
+  width: 391px;
+}
+
+.VINCULAR-CUENTA .text-wrapper-9 {
+  color: #887b7b;
+  font-family: "Outfit", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 13px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 6px;
+  width: 158px;
+}
+
+.VINCULAR-CUENTA .si-he-le-do-y-presto {
+  color: transparent;
+  font-family: "Outfit", Helvetica;
+  font-size: 17px;
+  font-weight: 400;
+  left: 104px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 599px;
+  width: 647px;
+}
+
+.VINCULAR-CUENTA .span {
+  color: #887b7b;
+}
+
+.VINCULAR-CUENTA .text-wrapper-10 {
+  color: #497dae;
+}
+
+.VINCULAR-CUENTA .rectangle-4 {
+  -webkit-backdrop-filter: blur(4px) brightness(100%);
+  backdrop-filter: blur(4px) brightness(100%);
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #887b7b;
+  height: 21px;
+  left: 66px;
+  position: absolute;
+  top: 600px;
+  width: 23px;
+}
+
+.VINCULAR-CUENTA .image {
+  height: 25px;
+  left: -6059px;
+  object-fit: cover;
+  position: absolute;
+  top: 2936px;
+  width: 25px;
+}
+
+.VINCULAR-CUENTA .overlap-12 {
+  height: 40px;
+  left: 0;
+  position: absolute;
+  top: 984px;
+  width: 1444px;
+}
+
+.VINCULAR-CUENTA .overlap-wrapper {
+  height: 40px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1444px;
+}
+
+.VINCULAR-CUENTA .image-2 {
+  height: 25px;
+  left: 1405px;
+  object-fit: cover;
+  position: absolute;
+  top: 10px;
+  width: 25px;
+}
+
+
+.MENU-DESPEGABLE {
+  background-color: #004987;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.MENU-DESPEGABLE .div {
+  background-color: #004987;
+  height: 1024px;
+  position: relative;
+  width: 100%;
+}
+
+.MENU-DESPEGABLE .ellipse {
+  background-color: #d9d9d9;
+  border-radius: 50px;
+  height: 100px;
+  left: 26px;
+  position: absolute;
+  top: 33px;
+  width: 100px;
+}
+
+.MENU-DESPEGABLE .text-wrapper-20 {
+  color: #ffffff;
+  font-family: "Outfit", Helvetica;
+  font-size: 20px;
+  font-weight: 300;
+  left: 139px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 57px;
+}
+
+.MENU-DESPEGABLE .text-wrapper-21 {
+  color: #ffffff;
+  font-family: "Outfit", Helvetica;
+  font-size: 20px;
+  font-weight: 300;
+  left: 37px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 183px;
+}
+
+.MENU-DESPEGABLE .text-wrapper-22 {
+  color: #ffffff;
+  font-family: "Outfit", Helvetica;
+  font-size: 20px;
+  font-weight: 600;
+  left: 37px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 222px;
+}
+
+.MENU-DESPEGABLE .text-wrapper-23 {
+  color: #ffffff;
+  font-family: "Outfit", Helvetica;
+  font-size: 20px;
+  font-weight: 500;
+  left: 37px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 261px;
+}
+
+.MENU-DESPEGABLE .text-wrapper-24 {
+  color: #ffffff;
+  font-family: "Outfit", Helvetica;
+  font-size: 20px;
+  font-weight: 500;
+  left: 37px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 300px;
+}
+
+.MENU-DESPEGABLE .text-wrapper-25 {
+  color: #ffffff;
+  font-family: "Outfit", Helvetica;
+  font-size: 20px;
+  font-weight: 300;
+  left: 37px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 339px;
+}
+
+.MENU-DESPEGABLE .text-wrapper-26 {
+  color: #ffffff;
+  font-family: "Outfit", Helvetica;
+  font-size: 20px;
+  font-weight: 300;
+  left: 38px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 378px;
+}
+
+.MENU-DESPEGABLE .text-wrapper-27 {
+  color: #ffffff;
+  font-family: "Outfit", Helvetica;
+  font-size: 20px;
+  font-weight: 300;
+  left: 38px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 417px;
+}
+
+.MENU-DESPEGABLE .text-wrapper-28 {
+  color: #ffffff;
+  font-family: "Outfit", Helvetica;
+  font-size: 20px;
+  font-weight: 600;
+  left: 37px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 456px;
+}
+
+.MENU-DESPEGABLE .text-wrapper-29 {
+  color: #ffffff;
+  font-family: "Outfit", Helvetica;
+  font-size: 20px;
+  font-weight: 300;
+  left: 39px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 615px;
+}
+
+.MENU-DESPEGABLE .text-wrapper-30 {
+  color: #ffffff;
+  font-family: "Outfit", Helvetica;
+  font-size: 20px;
+  font-weight: 600;
+  left: 39px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 495px;
+}
+
+.MENU-DESPEGABLE .text-wrapper-31 {
+  color: #ffffff;
+  font-family: "Outfit", Helvetica;
+  font-size: 20px;
+  font-weight: 600;
+  left: 39px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 534px;
+  text-align: left;
+  word-wrap: normal;
+}
+
+.MENU-DESPEGABLE .text-wrapper-32 {
+  color: #ffffff;
+  font-family: "Outfit", Helvetica;
+  font-size: 20px;
+  font-weight: 300;
+  left: 38px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 573px;
+}
+
+.MENU-DESPEGABLE .text-wrapper-33 {
+  color: #ffffff;
+  font-family: "Outfit", Helvetica;
+  font-size: 20px;
+  font-weight: 300;
+  left: 39px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 654px;
+}
+
+.MENU-DESPEGABLE .text-wrapper-34 {
+  color: #ffffff;
+  font-family: "Outfit", Helvetica;
+  font-size: 20px;
+  font-weight: 600;
+  left: 39px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 900px;
+}
+
+.MENU-DESPEGABLE .perfil-personal {
+  color: #ffffff;
+  font-family: "Outfit", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 139px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 82px;
+}
+
+.MENU-DESPEGABLE .span {
+  font-weight: 300;
+}
+
+.MENU-DESPEGABLE .text-wrapper-15 {
+  font-weight: 500;
+}
+
+.MENU-DESPEGABLE {
+  position: fixed;
+  top: 0;
+  width: 350px;
+  height: 100%;
+  background: #333;
+  transition: left 0.3s ease;
+  z-index: 999;
+}
+
+.MENU-DESPEGABLE.open {
+  left: 0; /* Slide in from the left when 'open' */
+}
+
+.group-3 {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  z-index: 1000; /* Set a high z-index to keep the button on top */
+}
+
+.group-3:disabled{
+  border: none;
+}
+
+.group-3:focus{
+  outline: none;
+}
+
+.group-3{
+  background-color: transparent;
+  outline: transparent;
+  border: transparent;
+}
+
+.MENU-DESPEGABLE .text-wrapper-16{
+  color: #ffffff;
+  font-family: "Outfit", Helvetica;
+  font-size: 20px;
+  font-weight: 300;
+  left: 39px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: justify;
+  text-wrap: nowrap;
+  top: 900px;
+}

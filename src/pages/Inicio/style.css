@@ -1,0 +1,296 @@
+.INICIO {
+  background-color: #033057;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.INICIO .overlap-group-wrapper {
+  background-color: #033057;
+  height: 1024px;
+  overflow: hidden;
+  width: 1440px;
+}
+
+.INICIO .overlap-group {
+  height: 1018px;
+  left: -73px;
+  position: relative;
+  top: 6px;
+  width: 1519px;
+}
+
+.INICIO .rectangle {
+  background-color: #043f70;
+  filter: blur(4px);
+  height: 165px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1513px;
+}
+
+.INICIO .div {
+  color: #ffffff;
+  font-family: "Outfit", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 97px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 980px;
+  width: 646px;
+}
+.INICIO .text-wrapper-2 {
+  color: #ffffff;
+  font-family: "Outfit-Medium", Helvetica;
+  font-size: 100px;
+  font-style: italic;
+  font-weight: 700;
+  left: 260px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 25px;
+  white-space: nowrap;
+}
+
+.INICIO .image {
+  height: 861px;
+  left: 73px;
+  object-fit: cover;
+  position: absolute;
+  top: 157px;
+  width: 1440px;
+}
+
+.INICIO .rectangle-2 {
+  background-color: #043f70;
+  box-shadow: inset 0px 4px 4px #00000040;
+  height: 40px;
+  left: 79px;
+  position: absolute;
+  top: 978px;
+  width: 1440px;
+}
+
+.INICIO .vector {
+  height: 18px;
+  left: 1420px;
+  position: absolute;
+  top: 989px;
+  width: 20px;
+}
+
+.INICIO .text-wrapper-3 {
+  color: #ffffff;
+  font-family: "Outfit", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  left: 797px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 68px;
+  width: 60px;
+}
+
+.INICIO .text-wrapper-4 {
+  color: #ffffff;
+  font-family: "Outfit", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  left: 998px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 68px;
+  width: 87px;
+}
+
+.INICIO .text-wrapper-5 {
+  color: #ffffff;
+  font-family: "Outfit", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  left: 1239px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 68px;
+  width: 96px;
+}
+
+.INICIO .text-wrapper-6 {
+  color: #ffffff;
+  font-family: "Outfit", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  left: 1366px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 109px;
+  width: 107px;
+}
+
+.INICIO .text-wrapper-7 {
+  color: #ffffff;
+  font-family: "Outfit", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  left: 1108px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 68px;
+  width: 108px;
+}
+
+.INICIO .text-wrapper-8 {
+  color: #ffffff;
+  font-family: "Outfit", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  left: 880px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 68px;
+  width: 95px;
+}
+
+.INICIO .INICIO-k-ANIMACION-instance {
+  left: 200px !important;
+  position: absolute !important;
+  top: 451px !important;
+}
+
+.INICIO .text-wrapper-9 {
+  color: #ffffff;
+  font-family: "Outfit", Helvetica;
+  font-size: 32px;
+  font-weight: 100;
+  left: 641px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 650px;
+}
+
+.INICIO .text-wrapper-10 {
+  color: #497dae;
+  font-family: "Outfit", Helvetica;
+  font-size: 24px;
+  font-weight: 600;
+  left: 701px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 698px;
+}
+
+.INICIO .p {
+  color: #ffffff;
+  font-family: "Outfit", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 112px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 987px;
+  width: 646px;
+}
+
+.INICIO .group {
+  height: 21px;
+  left: 1451px;
+  position: absolute;
+  top: 986px;
+  width: 21px;
+}
+
+.INICIO .frame {
+  height: 21px;
+  position: relative;
+}
+
+.INICIO .pngwing {
+  height: 24px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 24px;
+}
+
+.INICIO .group-2 {
+  background-image: url(../../static/img/react-icons-fa-falinkedinin-1.svg);
+  background-size: 100% 100%;
+  height: 22px;
+  left: 1483px;
+  position: absolute;
+  top: 988px;
+  width: 20px;
+}
+
+.INICIO .rectangle-3 {
+  background: linear-gradient(180deg, rgb(144, 177, 219) 0%, rgb(62, 119, 182) 100%);
+  border-radius: 30px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 35px;
+  left: 1350px;
+  position: absolute;
+  top: 60px;
+  width: 139px;
+}
+
+.INICIO .text-wrapper-11 {
+  color: #ffffff;
+  font-family: "Outfit", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  left: 1354px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 68px;
+  white-space: nowrap;
+  width: 131px;
+}
+
+.INICIO .whatsapp-image {
+  height: 137px;
+  left: 90px;
+  object-fit: cover;
+  position: absolute;
+  top: 14px;
+  width: 149px;
+}
+
+.colorLink:Link {
+  color: rgb(255, 255, 255); 
+}
+
+.colorLink:hover{
+  text-decoration: underline;
+}
+
+.colorLink:active {
+  color: rgb(255, 255, 255);
+}
+
+.colorLink:visited {
+  color: rgb(255, 255, 255); 
+}

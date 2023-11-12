@@ -1,0 +1,1 @@
+export { PagosRegulares } from "./PagosRegulares";

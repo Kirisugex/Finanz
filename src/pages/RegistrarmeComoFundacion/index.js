@@ -1,0 +1,1 @@
+export { RegistrarmeComo } from "./RegistrarmeComo";

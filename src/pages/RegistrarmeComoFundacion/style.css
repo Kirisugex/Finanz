@@ -1,0 +1,527 @@
+.REGISTRARME-COMO {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.REGISTRARME-COMO .div {
+  background-color: #ffffff;
+  height: 1024px;
+  position: relative;
+  width: 1440px;
+}
+
+.REGISTRARME-COMO .estoy-de-acuerdo-con {
+  color: transparent;
+  font-family: "Outfit", Helvetica;
+  font-size: 17px;
+  font-weight: 400;
+  left: 685px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 864px;
+  width: 588px;
+}
+
+.REGISTRARME-COMO .text-wrapper {
+  color: #b09595;
+}
+
+.REGISTRARME-COMO .span {
+  color: #497dae;
+}
+
+.REGISTRARME-COMO .si-he-le-do-y-presto {
+  color: transparent;
+  font-family: "Outfit", Helvetica;
+  font-size: 17px;
+  font-weight: 400;
+  left: 682px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 807px;
+  width: 616px;
+}
+
+.REGISTRARME-COMO .text-wrapper-2 {
+  color: #000000;
+  font-family: "Outfit", Helvetica;
+  font-size: 40px;
+  font-weight: 700;
+  left: 641px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 64px;
+}
+
+.REGISTRARME-COMO .p {
+  color: #b09595;
+  font-family: "Outfit", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 641px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 153px;
+  width: 478px;
+}
+
+.REGISTRARME-COMO .text-wrapper-3 {
+  color: #b09595;
+  font-family: "Outfit", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  left: 641px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 217px;
+  width: 478px;
+}
+
+.REGISTRARME-COMO .overlap {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #cfc9c9;
+  border-radius: 10px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 42px;
+  left: 641px;
+  position: absolute;
+  top: 251px;
+  width: 671px;
+}
+
+.REGISTRARME-COMO .text-wrapper-4 {
+  color: #b09595;
+  font-family: "Outfit", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 11px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 6px;
+}
+
+.REGISTRARME-COMO .overlap-group {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #cfc9c9;
+  border-radius: 10px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 42px;
+  left: 641px;
+  position: absolute;
+  top: 458px;
+  width: 266px;
+}
+
+.REGISTRARME-COMO .polygon {
+  height: 19px;
+  left: 229px;
+  position: absolute;
+  top: 13px;
+  width: 24px;
+}
+
+.REGISTRARME-COMO .div-wrapper {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #cfc9c9;
+  border-radius: 10px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 42px;
+  left: 921px;
+  position: absolute;
+  top: 458px;
+  width: 391px;
+}
+
+.REGISTRARME-COMO .text-wrapper-5 {
+  color: #b09595;
+  font-family: "Outfit", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 13px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 6px;
+  width: 119px;
+}
+
+.REGISTRARME-COMO .overlap-2 {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #cfc9c9;
+  border-radius: 10px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 42px;
+  left: 641px;
+  position: absolute;
+  top: 320px;
+  width: 398px;
+}
+
+.REGISTRARME-COMO .overlap-3 {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #cfc9c9;
+  border-radius: 10px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 42px;
+  left: 1054px;
+  position: absolute;
+  top: 320px;
+  width: 258px;
+}
+
+.REGISTRARME-COMO .text-wrapper-6 {
+  color: #b09595;
+  font-family: "Outfit", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 49px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 6px;
+}
+
+.REGISTRARME-COMO .line {
+  height: 42px;
+  left: 39px;
+  object-fit: cover;
+  position: absolute;
+  top: -1px;
+  width: 1px;
+}
+
+.REGISTRARME-COMO .overlap-group-2 {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #cfc9c9;
+  border-radius: 10px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 42px;
+  left: 641px;
+  position: absolute;
+  top: 389px;
+  width: 266px;
+}
+
+.REGISTRARME-COMO .overlap-4 {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #cfc9c9;
+  border-radius: 10px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 42px;
+  left: 921px;
+  position: absolute;
+  top: 389px;
+  width: 391px;
+}
+
+.REGISTRARME-COMO .text-wrapper-7 {
+  color: #b09595;
+  font-family: "Outfit", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 10px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 6px;
+}
+
+.REGISTRARME-COMO .overlap-5 {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #cfc9c9;
+  border-radius: 10px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 42px;
+  left: 641px;
+  position: absolute;
+  top: 737px;
+  width: 327px;
+}
+
+.REGISTRARME-COMO .image {
+  height: 20px;
+  left: 290px;
+  object-fit: cover;
+  position: absolute;
+  top: 10px;
+  width: 23px;
+}
+
+.REGISTRARME-COMO .overlap-6 {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #cfc9c9;
+  border-radius: 10px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 42px;
+  left: 983px;
+  position: absolute;
+  top: 737px;
+  width: 329px;
+}
+
+.REGISTRARME-COMO .text-wrapper-8 {
+  color: #b09595;
+  font-family: "Outfit", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 6px;
+}
+
+.REGISTRARME-COMO .text-wrapper-9 {
+  color: #00569d;
+  font-family: "Outfit", Helvetica;
+  font-size: 25px;
+  font-weight: 700;
+  left: 641px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 114px;
+}
+
+.REGISTRARME-COMO .overlap-7 {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #cfc9c9;
+  border-radius: 10px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 42px;
+  left: 641px;
+  position: absolute;
+  top: 527px;
+  width: 671px;
+}
+
+.REGISTRARME-COMO .text-wrapper-10 {
+  color: #b09595;
+  font-family: "Outfit", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 9px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 6px;
+}
+
+.REGISTRARME-COMO .overlap-8 {
+  background-image: url(../../static/img/image-8.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1024px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 568px;
+}
+
+.REGISTRARME-COMO .text-wrapper-11 {
+  -webkit-text-stroke: 1px #ffffff;
+  color: #ffffff;
+  font-family: "Outfit", Helvetica;
+  font-size: 72px;
+  font-weight: 400;
+  left: 78px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 436px;
+}
+
+.REGISTRARME-COMO .text-wrapper-12 {
+  color: #ffffff;
+  font-family: "Petrona", Helvetica;
+  font-size: 80px;
+  font-weight: 600;
+  left: 78px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 511px;
+  white-space: nowrap;
+}
+
+.REGISTRARME-COMO .overlap-9 {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #cfc9c9;
+  border-radius: 10px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 42px;
+  left: 641px;
+  position: absolute;
+  top: 667px;
+  width: 215px;
+}
+
+.REGISTRARME-COMO .text-wrapper-13 {
+  color: #b09595;
+  font-family: "Outfit", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 9px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 7px;
+  width: 126px;
+}
+
+.REGISTRARME-COMO .overlap-10 {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #cfc9c9;
+  border-radius: 10px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 42px;
+  left: 641px;
+  position: absolute;
+  top: 596px;
+  width: 671px;
+}
+
+.REGISTRARME-COMO .text-wrapper-14 {
+  color: #b09595;
+  font-family: "Outfit", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 5px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 6px;
+}
+
+.REGISTRARME-COMO .overlap-11 {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #cfc9c9;
+  border-radius: 10px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 42px;
+  left: 1097px;
+  position: absolute;
+  top: 668px;
+  width: 215px;
+}
+
+.REGISTRARME-COMO .text-wrapper-15 {
+  color: #b09595;
+  font-family: "Outfit", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 6px;
+  width: 188px;
+}
+
+.REGISTRARME-COMO .overlap-12 {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #cfc9c9;
+  border-radius: 10px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 42px;
+  left: 869px;
+  position: absolute;
+  top: 668px;
+  width: 215px;
+}
+
+.REGISTRARME-COMO .text-wrapper-16 {
+  color: #b09595;
+  font-family: "Outfit", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 13px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 6px;
+  width: 156px;
+}
+
+.REGISTRARME-COMO .rectangle {
+  -webkit-backdrop-filter: blur(4px) brightness(100%);
+  backdrop-filter: blur(4px) brightness(100%);
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #b09595;
+  height: 21px;
+  left: 644px;
+  position: absolute;
+  top: 814px;
+  width: 23px;
+}
+
+.REGISTRARME-COMO .rectangle-2 {
+  -webkit-backdrop-filter: blur(4px) brightness(100%);
+  backdrop-filter: blur(4px) brightness(100%);
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #b09595;
+  height: 21px;
+  left: 644px;
+  position: absolute;
+  top: 871px;
+  width: 23px;
+}
+
+.REGISTRARME-COMO .overlap-13 {
+  background: linear-gradient(180deg, rgb(144, 177, 219) 0%, rgb(62, 119, 182) 100%);
+  border-radius: 30px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 52px;
+  left: 643px;
+  position: absolute;
+  top: 936px;
+  width: 278px;
+}
+
+.REGISTRARME-COMO .text-wrapper-17 {
+  color: #ffffff;
+  font-family: "Outfit", Helvetica;
+  font-size: 20px;
+  font-weight: 600;
+  left: 87px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 11px;
+}
+
+.REGISTRARME-COMO .img {
+  height: 2px;
+  left: 641px;
+  object-fit: cover;
+  position: absolute;
+  top: 209px;
+  width: 664px;
+}

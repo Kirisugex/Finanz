@@ -1,0 +1,1 @@
+export { PantallaYaDentro } from "./PantallaYaDentro";

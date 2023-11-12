@@ -1,0 +1,1 @@
+export { Pentatech } from "./Pentatech";

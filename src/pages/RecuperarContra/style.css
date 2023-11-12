@@ -1,0 +1,26 @@
+.RECUPERAR-CONTRASEA {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.RECUPERAR-CONTRASEA .RECUPERAR-CONTRASEA-wrapper {
+  background-color: #ffffff;
+  height: 1024px;
+  width: 1440px;
+}
+
+.RECUPERAR-CONTRASEA .frame-wrapper {
+  height: 1024px;
+}
+
+.RECUPERAR-CONTRASEA .frame {
+  height: 1024px;
+  width: 1440px;
+}
+
+.RECUPERAR-CONTRASEA .HE-OLVIDADO-MI-CONTRASE-a {
+  width: unset !important;
+}

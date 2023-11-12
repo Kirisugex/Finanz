@@ -1,0 +1,212 @@
+.MENU-DESPEGABLE {
+  background-color: #004987;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.MENU-DESPEGABLE .div {
+  background-color: #004987;
+  height: 1024px;
+  position: relative;
+  width: 374px;
+}
+
+.MENU-DESPEGABLE .ellipse {
+  background-color: #d9d9d9;
+  border-radius: 50px;
+  height: 100px;
+  left: 26px;
+  position: absolute;
+  top: 33px;
+  width: 100px;
+}
+
+.MENU-DESPEGABLE .text-wrapper {
+  color: #ffffff;
+  font-family: "Outfit", Helvetica;
+  font-size: 20px;
+  font-weight: 300;
+  left: 139px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 57px;
+}
+
+.MENU-DESPEGABLE .text-wrapper-2 {
+  color: #ffffff;
+  font-family: "Outfit", Helvetica;
+  font-size: 20px;
+  font-weight: 300;
+  left: 37px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 183px;
+}
+
+.MENU-DESPEGABLE .text-wrapper-3 {
+  color: #ffffff;
+  font-family: "Outfit", Helvetica;
+  font-size: 20px;
+  font-weight: 600;
+  left: 37px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 222px;
+}
+
+.MENU-DESPEGABLE .text-wrapper-4 {
+  color: #ffffff;
+  font-family: "Outfit", Helvetica;
+  font-size: 20px;
+  font-weight: 500;
+  left: 37px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 261px;
+}
+
+.MENU-DESPEGABLE .text-wrapper-5 {
+  color: #ffffff;
+  font-family: "Outfit", Helvetica;
+  font-size: 20px;
+  font-weight: 500;
+  left: 37px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 300px;
+}
+
+.MENU-DESPEGABLE .text-wrapper-6 {
+  color: #ffffff;
+  font-family: "Outfit", Helvetica;
+  font-size: 20px;
+  font-weight: 300;
+  left: 37px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 339px;
+}
+
+.MENU-DESPEGABLE .text-wrapper-7 {
+  color: #ffffff;
+  font-family: "Outfit", Helvetica;
+  font-size: 20px;
+  font-weight: 300;
+  left: 38px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 378px;
+}
+
+.MENU-DESPEGABLE .text-wrapper-8 {
+  color: #ffffff;
+  font-family: "Outfit", Helvetica;
+  font-size: 20px;
+  font-weight: 300;
+  left: 38px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 417px;
+}
+
+.MENU-DESPEGABLE .text-wrapper-9 {
+  color: #ffffff;
+  font-family: "Outfit", Helvetica;
+  font-size: 20px;
+  font-weight: 600;
+  left: 37px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 456px;
+}
+
+.MENU-DESPEGABLE .text-wrapper-10 {
+  color: #ffffff;
+  font-family: "Outfit", Helvetica;
+  font-size: 20px;
+  font-weight: 300;
+  left: 39px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 615px;
+}
+
+.MENU-DESPEGABLE .text-wrapper-11 {
+  color: #ffffff;
+  font-family: "Outfit", Helvetica;
+  font-size: 20px;
+  font-weight: 600;
+  left: 39px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 495px;
+}
+
+.MENU-DESPEGABLE .text-wrapper-12 {
+  color: #ffffff;
+  font-family: "Outfit", Helvetica;
+  font-size: 20px;
+  font-weight: 600;
+  left: 39px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 534px;
+}
+
+.MENU-DESPEGABLE .text-wrapper-13 {
+  color: #ffffff;
+  font-family: "Outfit", Helvetica;
+  font-size: 20px;
+  font-weight: 300;
+  left: 38px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 573px;
+}
+
+.MENU-DESPEGABLE .text-wrapper-14 {
+  color: #ffffff;
+  font-family: "Outfit", Helvetica;
+  font-size: 20px;
+  font-weight: 300;
+  left: 39px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 654px;
+}
+
+.MENU-DESPEGABLE .perfil-personal {
+  color: #ffffff;
+  font-family: "Outfit", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 139px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 82px;
+}
+
+.MENU-DESPEGABLE .span {
+  font-weight: 300;
+}
+
+.MENU-DESPEGABLE .text-wrapper-15 {
+  font-weight: 500;
+}

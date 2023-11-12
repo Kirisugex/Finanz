@@ -1,0 +1,1 @@
+export { VincularCuenta } from "./VincularCuenta";

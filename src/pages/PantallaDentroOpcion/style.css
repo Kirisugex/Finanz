@@ -1,0 +1,223 @@
+.PANTALLA-YA-DENTRO {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.PANTALLA-YA-DENTRO .div {
+  background-color: #ffffff;
+  height: 1024px;
+  overflow: hidden;
+  position: relative;
+  width: 1440px;
+}
+
+.PANTALLA-YA-DENTRO .group {
+  height: 40px;
+  left: 0;
+  position: absolute;
+  top: 984px;
+  width: 1444px;
+}
+
+.PANTALLA-YA-DENTRO .overlap-group {
+  height: 40px;
+  position: relative;
+  width: 1440px;
+}
+
+.PANTALLA-YA-DENTRO .text-wrapper {
+  color: #ffffff;
+  font-family: "Outfit", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 3px;
+  width: 646px;
+}
+
+.PANTALLA-YA-DENTRO .rectangle {
+  background-color: #043f70;
+  box-shadow: inset 0px 4px 4px #00000040;
+  height: 40px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.PANTALLA-YA-DENTRO .p {
+  color: #ffffff;
+  font-family: "Outfit", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 33px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 10px;
+  width: 646px;
+}
+
+.PANTALLA-YA-DENTRO .frame-wrapper {
+  height: 21px;
+  left: 1372px;
+  position: absolute;
+  top: 8px;
+  width: 21px;
+}
+
+.PANTALLA-YA-DENTRO .frame {
+  height: 21px;
+  position: relative;
+}
+
+.PANTALLA-YA-DENTRO .pngwing {
+  height: 24px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 24px;
+}
+
+.PANTALLA-YA-DENTRO .react-icons-fa {
+  height: 22px !important;
+  left: 1343px !important;
+  position: absolute !important;
+  top: 10px !important;
+  width: 20px !important;
+}
+
+.PANTALLA-YA-DENTRO .group-2 {
+  background-image: url(../../static/img/react-icons-fa-falinkedinin-1.svg);
+  background-size: 100% 100%;
+  height: 22px;
+  left: 1404px;
+  position: absolute;
+  top: 10px;
+  width: 20px;
+}
+
+.PANTALLA-YA-DENTRO .overlap-wrapper {
+  height: 165px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1452px;
+}
+
+.PANTALLA-YA-DENTRO .overlap {
+  background-image: url(../../static/img/rectangle-933.svg);
+  background-size: 100% 100%;
+  height: 169px;
+  position: relative;
+  width: 1440px;
+}
+
+.PANTALLA-YA-DENTRO .img {
+  height: 169px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.PANTALLA-YA-DENTRO .rectangle-2 {
+  background-color: #043f70;
+  filter: blur(4px);
+  height: 165px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.PANTALLA-YA-DENTRO .text-wrapper-2 {
+  color: #ffffff;
+  font-family: "Outfit", Helvetica;
+  font-size: 20px;
+  font-weight: 500;
+  left: 834px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 75px;
+  width: 115px;
+}
+
+.PANTALLA-YA-DENTRO .text-wrapper-3 {
+  color: #ffffff;
+  font-family: "Outfit", Helvetica;
+  font-size: 20px;
+  font-weight: 500;
+  left: 1103px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 75px;
+  width: 134px;
+}
+
+.PANTALLA-YA-DENTRO .text-wrapper-4 {
+  color: #ffffff;
+  font-family: "Outfit", Helvetica;
+  font-size: 20px;
+  font-weight: 500;
+  left: 1261px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 75px;
+  width: 122px;
+}
+
+.PANTALLA-YA-DENTRO .text-wrapper-5 {
+  color: #ffffff;
+  font-family: "Outfit", Helvetica;
+  font-size: 20px;
+  font-weight: 500;
+  left: 973px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 75px;
+  width: 106px;
+}
+
+.PANTALLA-YA-DENTRO .text-wrapper-6 {
+  color: #ffffff;
+  font-family: "Outfit", Helvetica;
+  font-size: 20px;
+  font-weight: 500;
+  left: 737px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 75px;
+  width: 73px;
+}
+
+.PANTALLA-YA-DENTRO .text-wrapper-7 {
+  color: #ffffff;
+  font-family: "Petrona", Helvetica;
+  font-size: 100px;
+  font-style: italic;
+  font-weight: 700;
+  left: 114px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 32px;
+  white-space: nowrap;
+}

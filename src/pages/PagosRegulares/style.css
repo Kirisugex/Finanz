@@ -1,0 +1,364 @@
+.PAGOS-REGULARES {
+    background-color: #00569d;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  .PAGOS-REGULARES .div {
+    background-color: #00569d;
+    height: 1024px;
+    position: relative;
+    width: 1440px;
+  }
+  
+  .PAGOS-REGULARES .overlap-group {
+    background-color: #ffffff;
+    height: 770px;
+    left: 0;
+    position: absolute;
+    top: 254px;
+    width: 1440px;
+  }
+  
+  .PAGOS-REGULARES .text-wrapper-70 {
+    color: #887b7b;
+    font-family: "Outfit", Helvetica;
+    font-size: 32px;
+    font-weight: 300;
+    left: 83px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-decoration: none;
+    top: 20px;
+}
+
+.PAGOS-REGULARES .text-wrapper-99{
+  color: #ffffff;
+  font-family: "Outfit", Helvetica;
+  font-size: 36px;
+  font-weight: 300;
+  left: 971px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-decoration: none;
+  top: 192px;
+}
+
+.PAGOS-REGULARES .text-wrapper-72 {
+  color: #ffffff;
+  font-family: "Outfit", Helvetica;
+  font-size: 40px;
+  font-weight: bold;
+  left: 538px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-decoration: underline;
+  top: 142px;
+}
+
+.PAGOS-REGULARES .text-wrapper-71 {
+  color: #ffffff;
+  font-family: "Outfit", Helvetica;
+  font-size: 36px;
+  font-weight: 300;
+  left: 271px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 192px;
+}
+
+.PAGOS-REGULARES .text-wrapper-4 {
+    color: #ffffff;
+    font-family: "Outfit", Helvetica;
+    font-size: 36px;
+    font-weight: 300;
+    left: 538px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-decoration: none;
+    top: 142px;
+  }
+  
+  .MENU-DESPEGABLE {
+    background-color: #004987;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .MENU-DESPEGABLE .div {
+    background-color: #004987;
+    height: 1024px;
+    position: relative;
+    width: 100%;
+  }
+  
+  .MENU-DESPEGABLE .ellipse {
+    background-color: #d9d9d9;
+    border-radius: 50px;
+    height: 100px;
+    left: 26px;
+    position: absolute;
+    top: 33px;
+    width: 100px;
+  }
+  
+  .MENU-DESPEGABLE .text-wrapper-50 {
+    color: #ffffff;
+    font-family: "Outfit", Helvetica;
+    font-size: 20px;
+    font-weight: 300;
+    left: 139px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 57px;
+  }
+  
+  .MENU-DESPEGABLE .text-wrapper-51 {
+    color: #ffffff;
+    font-family: "Outfit", Helvetica;
+    font-size: 20px;
+    font-weight: 300;
+    left: 37px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 183px;
+  }
+  
+  .MENU-DESPEGABLE .text-wrapper-52 {
+    color: #ffffff;
+    font-family: "Outfit", Helvetica;
+    font-size: 20px;
+    font-weight: 600;
+    left: 37px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 222px;
+  }
+  
+  .MENU-DESPEGABLE .text-wrapper-53 {
+    color: #ffffff;
+    font-family: "Outfit", Helvetica;
+    font-size: 20px;
+    font-weight: 500;
+    left: 37px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 261px;
+  }
+  
+  .MENU-DESPEGABLE .text-wrapper-5 {
+    color: #ffffff;
+    font-family: "Outfit", Helvetica;
+    font-size: 20px;
+    font-weight: 500;
+    left: 37px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 300px;
+  }
+  
+  .MENU-DESPEGABLE .text-wrapper-6 {
+    color: #ffffff;
+    font-family: "Outfit", Helvetica;
+    font-size: 20px;
+    font-weight: 300;
+    left: 37px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 339px;
+  }
+  
+  .MENU-DESPEGABLE .text-wrapper-7 {
+    color: #ffffff;
+    font-family: "Outfit", Helvetica;
+    font-size: 20px;
+    font-weight: 300;
+    left: 38px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 378px;
+  }
+  
+  .MENU-DESPEGABLE .text-wrapper-8 {
+    color: #ffffff;
+    font-family: "Outfit", Helvetica;
+    font-size: 20px;
+    font-weight: 300;
+    left: 38px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 417px;
+  }
+  
+  .MENU-DESPEGABLE .text-wrapper-9 {
+    color: #ffffff;
+    font-family: "Outfit", Helvetica;
+    font-size: 20px;
+    font-weight: 600;
+    left: 37px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 456px;
+  }
+  
+  .MENU-DESPEGABLE .text-wrapper-10 {
+    color: #ffffff;
+    font-family: "Outfit", Helvetica;
+    font-size: 20px;
+    font-weight: 300;
+    left: 39px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 615px;
+  }
+  
+  .MENU-DESPEGABLE .text-wrapper-11 {
+    color: #ffffff;
+    font-family: "Outfit", Helvetica;
+    font-size: 20px;
+    font-weight: 600;
+    left: 39px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 495px;
+  }
+  
+  .MENU-DESPEGABLE .text-wrapper-12 {
+    color: #ffffff;
+    font-family: "Outfit", Helvetica;
+    font-size: 20px;
+    font-weight: 600;
+    left: 39px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 534px;
+    text-align: left;
+    word-wrap: normal;
+  }
+  
+  .MENU-DESPEGABLE .text-wrapper-13 {
+    color: #ffffff;
+    font-family: "Outfit", Helvetica;
+    font-size: 20px;
+    font-weight: 300;
+    left: 38px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 573px;
+  }
+  
+  .MENU-DESPEGABLE .text-wrapper-14 {
+    color: #ffffff;
+    font-family: "Outfit", Helvetica;
+    font-size: 20px;
+    font-weight: 300;
+    left: 39px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 654px;
+  }
+  
+  .MENU-DESPEGABLE .text-wrapper-16 {
+    color: #ffffff;
+    font-family: "Outfit", Helvetica;
+    font-size: 20px;
+    font-weight: 500;
+    left: 39px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 693px;
+  }
+  
+  .MENU-DESPEGABLE .perfil-personal {
+    color: #ffffff;
+    font-family: "Outfit", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    left: 139px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 82px;
+  }
+  
+  .MENU-DESPEGABLE .span {
+    font-weight: 300;
+  }
+  
+  .MENU-DESPEGABLE .text-wrapper-15 {
+    font-weight: 500;
+  }
+  
+  .MENU-DESPEGABLE {
+    position: fixed;
+    top: 0;
+    width: 350px;
+    height: 100%;
+    background: #333;
+    transition: left 0.3s ease;
+    z-index: 999;
+}
+
+.MENU-DESPEGABLE.open {
+    left: 0; /* Slide in from the left when 'open' */
+  }
+  
+  .group {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    z-index: 1000; /* Set a high z-index to keep the button on top */
+  }
+  
+  .group:disabled{
+    border: none;
+  }
+  
+  .group:focus{
+    outline: none;
+  }
+  
+  .group{
+    background-color: transparent;
+    outline: transparent;
+    border: transparent;
+  }
+
+  .colorLink:Link {
+    color: rgb(255, 255, 255); 
+  }
+  
+  .colorLink:hover{
+    text-decoration: underline;
+  }
+  
+  .colorLink:active {
+    color: rgb(255, 255, 255);
+  }
+  
+  .colorLink:visited {
+    color: rgb(255, 255, 255); 
+  }

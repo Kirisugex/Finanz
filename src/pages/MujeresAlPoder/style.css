@@ -1,0 +1,556 @@
+.MUJERES-AL-PODER {
+  background-color: rgba(255, 255, 255, 1);
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.MUJERES-AL-PODER .overlap-wrapper {
+  background: linear-gradient(
+      180deg,
+      rgba(246.67, 224.25, 250.33, 0.98) 0%,
+      rgba(247.84, 232.59, 250.33, 0.98) 0.01%,
+      rgba(241.38, 215.91, 250.33, 0.98) 50.62%,
+      rgba(232.62, 168.94, 255, 0.98) 100%
+  );
+  background-color: rgba(255, 255, 255, 1);
+  height: 1024px;
+  overflow: hidden;
+  width: 1440px;
+}
+
+.MUJERES-AL-PODER .overlap {
+  height: 1024px;
+  position: relative;
+  width: 1719px;
+}
+
+.MUJERES-AL-PODER .overlap-group {
+  height: 1024px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1444px;
+}
+
+.MUJERES-AL-PODER .rectangle {
+  height: 1014px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 557px;
+}
+
+.MUJERES-AL-PODER .group {
+  height: 40px;
+  left: 0;
+  position: absolute;
+  top: 984px;
+  width: 1444px;
+}
+
+.MUJERES-AL-PODER .div {
+  height: 40px;
+  position: relative;
+  width: 1440px;
+}
+
+.MUJERES-AL-PODER .text-wrapper {
+  color: #ffffff;
+  font-family: "Outfit-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 3px;
+  width: 646px;
+}
+
+.MUJERES-AL-PODER .rectangle-2 {
+  background-color: #4b0357;
+  box-shadow: inset 0px 4px 4px #00000040;
+  height: 40px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.MUJERES-AL-PODER .copyright-f-i-n-a-n {
+  color: #ffffff;
+  font-family: "Outfit-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 33px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 10px;
+  width: 646px;
+}
+
+.MUJERES-AL-PODER .group-3 {
+  height: 18px;
+  left: 48px;
+  position: absolute;
+  top: 52px;
+  width: 42px;
+}
+
+.MUJERES-AL-PODER .line {
+  height: 4px;
+  left: 0;
+  position: absolute;
+  top: -4px;
+  width: 42px;
+}
+
+.MUJERES-AL-PODER .img {
+  height: 4px;
+  left: 0;
+  position: absolute;
+  top: 14px;
+  width: 42px;
+}
+
+.MUJERES-AL-PODER .line-2 {
+  height: 4px;
+  left: 0;
+  position: absolute;
+  top: 5px;
+  width: 42px;
+}
+
+.MUJERES-AL-PODER .image {
+  height: 25px;
+  left: 1405px;
+  object-fit: cover;
+  position: absolute;
+  top: 994px;
+  width: 25px;
+}
+
+.MUJERES-AL-PODER .div-wrapper {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #4b0357;
+  border-radius: 10px;
+  height: 51px;
+  left: 626px;
+  position: absolute;
+  top: 256px;
+  width: 746px;
+}
+
+.MUJERES-AL-PODER .text-wrapper-2 {
+  color: #4b0357;
+  font-family: "Outfit-Medium", Helvetica;
+  font-size: 20px;
+  font-weight: 500;
+  left: 289px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 11px;
+}
+
+.MUJERES-AL-PODER .overlap-2 {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #4b0357;
+  border-radius: 10px;
+  height: 51px;
+  left: 626px;
+  position: absolute;
+  top: 337px;
+  width: 746px;
+}
+
+.MUJERES-AL-PODER .overlap-3 {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #4b0357;
+  border-radius: 10px;
+  height: 51px;
+  left: 626px;
+  position: absolute;
+  top: 418px;
+  width: 746px;
+}
+
+.MUJERES-AL-PODER .text-wrapper-3 {
+  color: #4b0357;
+  font-family: "Outfit-Medium", Helvetica;
+  font-size: 20px;
+  font-weight: 500;
+  left: 333px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 11px;
+}
+
+.MUJERES-AL-PODER .overlap-4 {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #4b0357;
+  border-radius: 10px;
+  height: 51px;
+  left: 626px;
+  position: absolute;
+  top: 499px;
+  width: 746px;
+}
+
+.MUJERES-AL-PODER .text-wrapper-4 {
+  color: #4b0357;
+  font-family: "Outfit-Medium", Helvetica;
+  font-size: 20px;
+  font-weight: 500;
+  left: 279px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 11px;
+}
+
+.MUJERES-AL-PODER .overlap-5 {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #4b0357;
+  border-radius: 10px;
+  height: 51px;
+  left: 626px;
+  position: absolute;
+  top: 580px;
+  width: 746px;
+}
+
+.MUJERES-AL-PODER .text-wrapper-5 {
+  color: #4b0357;
+  font-family: "Outfit-Medium", Helvetica;
+  font-size: 20px;
+  font-weight: 500;
+  left: 265px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 11px;
+  width: 214px;
+}
+
+.MUJERES-AL-PODER .p {
+  color: #4b0357;
+  font-family: "Outfit-Medium", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  left: 632px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 140px;
+  width: 739px;
+}
+
+.MUJERES-AL-PODER .text-wrapper-6 {
+  color: #4b0357;
+  font-family: "Outfit-Medium", Helvetica;
+  font-size: 48px;
+  font-weight: 500;
+  left: 627px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 71px;
+}
+
+.MUJERES-AL-PODER .si-he-le-do-y-presto {
+  color: transparent;
+  font-family: "Outfit-Regular", Helvetica;
+  font-size: 17px;
+  font-weight: 400;
+  left: 1072px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 748px;
+  width: 647px;
+}
+
+.MUJERES-AL-PODER .span {
+  color: #887b7b;
+}
+
+.MUJERES-AL-PODER .text-wrapper-7 {
+  color: #497dae;
+}
+
+.MENU-DESPEGABLE {
+  background-color: #004987;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.MENU-DESPEGABLE .div {
+  background-color: #004987;
+  height: 1024px;
+  position: relative;
+  width: 100%;
+}
+
+.MENU-DESPEGABLE .ellipse {
+  background-color: #d9d9d9;
+  border-radius: 50px;
+  height: 100px;
+  left: 26px;
+  position: absolute;
+  top: 33px;
+  width: 100px;
+}
+
+.MENU-DESPEGABLE .text-wrapper {
+  color: #ffffff;
+  font-family: "Outfit", Helvetica;
+  font-size: 20px;
+  font-weight: 300;
+  left: 139px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 57px;
+}
+
+.MENU-DESPEGABLE .text-wrapper-2 {
+  color: #ffffff;
+  font-family: "Outfit", Helvetica;
+  font-size: 20px;
+  font-weight: bold;
+  left: 27px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 183px;
+}
+
+.MENU-DESPEGABLE .text-wrapper-3 {
+  color: #ffffff;
+  font-family: "Outfit", Helvetica;
+  font-size: 20px;
+  font-weight: 300;
+  left: 57px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 222px;
+}
+
+.MENU-DESPEGABLE .text-wrapper-4 {
+  color: #ffffff;
+  font-family: "Outfit", Helvetica;
+  font-size: 20px;
+  font-weight: 300;
+  left: 57px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 261px;
+}
+
+.MENU-DESPEGABLE .text-wrapper-5 {
+  color: #ffffff;
+  font-family: "Outfit", Helvetica;
+  font-size: 20px;
+  font-weight: 300;
+  left: 57px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 300px;
+}
+
+.MENU-DESPEGABLE .text-wrapper-6 {
+  color: #ffffff;
+  font-family: "Outfit", Helvetica;
+  font-size: 20px;
+  font-weight: 300;
+  left: 57px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 339px;
+}
+
+.MENU-DESPEGABLE .text-wrapper-7 {
+  color: #ffffff;
+  font-family: "Outfit", Helvetica;
+  font-size: 20px;
+  font-weight: 300;
+  left: 57px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 378px;
+}
+
+.MENU-DESPEGABLE .text-wrapper-8 {
+  color: #ffffff;
+  font-family: "Outfit", Helvetica;
+  font-size: 20px;
+  font-weight: 300;
+  left: 57px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 417px;
+}
+
+.MENU-DESPEGABLE .text-wrapper-9 {
+  color: #ffffff;
+  font-family: "Outfit", Helvetica;
+  font-size: 20px;
+  font-weight: bold;
+  left: 37px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 550px;
+}
+
+.MENU-DESPEGABLE .text-wrapper-10 {
+  color: #ffffff;
+  font-family: "Outfit", Helvetica;
+  font-size: 20px;
+  font-weight: 300;
+  left: 39px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 830px;
+}
+
+.MENU-DESPEGABLE .text-wrapper-11 {
+  color: #ffffff;
+  font-family: "Outfit", Helvetica;
+  font-size: 20px;
+  font-weight: 300;
+  left: 39px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 495px;
+}
+
+.MENU-DESPEGABLE .text-wrapper-12 {
+  color: #ffffff;
+  font-family: "Outfit", Helvetica;
+  font-size: 20px;
+  font-weight: 300;
+  left: 39px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 750px;
+  text-align: left;
+  word-wrap: normal;
+}
+
+.MENU-DESPEGABLE .text-wrapper-13 {
+  color: #ffffff;
+  font-family: "Outfit", Helvetica;
+  font-size: 20px;
+  font-weight: 300;
+  left: 38px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 790px;
+}
+
+.MENU-DESPEGABLE .text-wrapper-14 {
+  color: #ffffff;
+  font-family: "Outfit", Helvetica;
+  font-size: 20px;
+  font-weight: 300;
+  left: 39px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 870px;
+}
+
+.MENU-DESPEGABLE .perfil-personal {
+  color: #ffffff;
+  font-family: "Outfit", Helvetica;
+  font-size: 20px;
+  font-weight: 300;   
+  left: 139px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 82px;
+}
+
+.MENU-DESPEGABLE .span {
+  font-weight: 300;
+}
+
+.MENU-DESPEGABLE .text-wrapper-15 {
+  color: #ffffff;
+  font-weight: 500;
+  left: 50px;
+  font-size: 18px;
+  top: 2px;
+}
+
+.MENU-DESPEGABLE {
+  position: fixed;
+  top: 0;
+  width: 350px;
+  height: 100%;
+  background: #333;
+  transition: left 0.3s ease;
+  z-index: 999;
+}
+
+.MENU-DESPEGABLE.open {
+  left: 0; /* Slide in from the left when 'open' */
+}
+.group {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  z-index: 1000; /* Set a high z-index to keep the button on top */
+}
+
+.group:disabled{
+  border: none;
+}
+
+.group:focus{
+  outline: none;
+}
+
+.group{
+  background-color: transparent;
+  outline: transparent;
+  border: transparent;
+}
+
+.MENU-DESPEGABLE .text-wrapper-16{
+  color: #ffffff;
+  font-family: "Outfit", Helvetica;
+  font-size: 20px;
+  font-weight: 300;
+  left: 39px;
+  letter-spacing: 0;
+  text-align: justify;
+  text-wrap: nowrap;
+  top: 1000px;
+}

@@ -1,0 +1,1 @@
+export { MujeresEnStem } from "./MujeresEnStem";
